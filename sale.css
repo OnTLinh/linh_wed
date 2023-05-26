@@ -1,0 +1,17 @@
+.sale{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    color:#08140e ;
+    background-color: #fff;
+}
+.sale-right{
+    flex: 1;
+    margin-left: 300px;
+}
+.sale-left{
+    flex: 1;
+    margin-right: 400px;
+}
+}
